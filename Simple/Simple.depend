@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1757975424 source:d:\course\simple\main.cpp
+	<iostream>
+	<ArrayManager.h>
+
+1757975517 d:\course\simple\include\arraymanager.h
+	<iostream>
+
